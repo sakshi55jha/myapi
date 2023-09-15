@@ -1,0 +1,455 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "ModernDesk",
+        "company": "Furniture World",
+        "description": "Stylish and functional desk for your workspace.",
+        "price_inr": 1499,
+        "category": "Furniture",
+        "image_url": "https://img.freepik.com/free-photo/view-3d-laptop-device-with-screen-keyboard_23-2150714087.jpg?t=st=1694402667~exp=1694406267~hmac=c4cf29339ffba40ed0d92e6e26bd1a29bcdb29d792cb33c8b9a07a5067dc5d3c&w=740"
+      },
+      {
+        "id": 2,
+        "name": "Headphone",
+        "company": "SonicTech",
+        "description": "High-Performance Wireless Headphones",
+        "price_inr": 2000,
+        "category": "Electronics",
+        "image_url": "https://img.freepik.com/free-photo/headphones-balancing-with-blue-background_23-2150271756.jpg?w=740&t=st=1694402881~exp=1694403481~hmac=1f0600bc11097a12d552c11adce99557088e15c6a8d34f7e7686ebedb4f7f0a0"
+      },
+      {
+        "id": 3,
+        "name": "Fashionable Watch",
+        "company": "TimeWonders",
+        "description": "Elegant and trendy wristwatch for any occasion.",
+        "price_inr": 1999,
+        "category": "Fashion",
+        "image_url": "https://img.freepik.com/free-photo/smartwatch-screen-digital-device_53876-96809.jpg?w=740&t=st=1694403234~exp=1694403834~hmac=c7fd55d6f4afcd22710c953306cf29afc8d3c6a6e1592696875d2c0e34dcb850"
+      },
+      {
+        "id": 4,
+        "name": "Wireless Earbuds",
+        "company": "AudioElite",
+        "description": "Premium wireless earbuds with noise-canceling technology.",
+        "price_inr": 3499,
+        "category": "Electronics",
+        "image_url": "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?w=740&t=st=1694404777~exp=1694405377~hmac=6affffe732270d31cf9223d0f29d61f7650c2d1cb5b59890aac9745e95b63ccb"
+      },
+      {
+        "id": 5,
+        "name": "Coffee Maker",
+        "company": "Café Bliss",
+        "description": "Automatic coffee maker for brewing your favorite coffee.",
+        "price_inr": 3999,
+        "category": "Kitchen Appliances",
+        "image_url": "https://img.freepik.com/free-photo/barista-making-cup-coffee_23-2150698733.jpg?t=st=1694399064~exp=1694402664~hmac=6255ccdf795e522598d87cd5ab05d674a67234e2817803a08936f0c8bb5f439e&w=740"
+      },
+      {
+        "id": 6,
+        "name": "Comfortable Sofa",
+        "company": "CozyNest",
+        "description": "Plush sofa for ultimate relaxation in your living room.",
+        "price_inr": 9999,
+        "category": "Furniture",
+        "image_url": "https://img.freepik.com/free-psd/empty-wall-with-elegant-sofa_176382-1275.jpg?w=740&t=st=1694405072~exp=1694405672~hmac=be81f7ca4044da191946ac5c39645ca7ef626a1f991bcacdd8f165bf69245178"
+      },
+      {
+        "id": 7,
+        "name": "Designer Sunglasses",
+        "company": "GlamShade",
+        "description": "Trendy sunglasses to protect your eyes in style.",
+        "price_inr": 500,
+        "category": "Fashion",
+        "image_url": "https://img.freepik.com/free-photo/close-up-woman-talking-phone_23-2148760448.jpg?w=740&t=st=1694405158~exp=1694405758~hmac=d48a08219703e0325348b02f20efdc30e94ab12d6c8b777da136d8e24277cefe"
+      },
+      {
+        "id": 8,
+        "name": "Gaming Laptop",
+        "company": "GameMaster",
+        "description": "High-performance gaming laptop for immersive gaming experiences.",
+        "price_inr": 49999,
+        "category": "Electronics",
+        "image_url": "https://img.freepik.com/free-photo/view-3d-laptop-device-with-screen-keyboard_23-2150714001.jpg?t=st=1694405350~exp=1694408950~hmac=d2d756b222f2486b3bd7ba00d157907ca3bfd3f23577d610788ed295ecf2d19b&w=740"
+      },
+      {
+        "id": 9,
+        "name": "Home Gym Equipment",
+        "company": "FitLife",
+        "description": "Compact home gym equipment for staying fit at home.",
+        "price_inr": 8999,
+        "category": "Fitness",
+        "image_url": "https://img.freepik.com/premium-photo/bright-yoga-studio-with-equipment_863013-111726.jpg?size=626&ext=jpg&ga=GA1.2.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 10,
+        "name": "Travel Backpack",
+        "company": "AdventureGear",
+        "description": "Durable and spacious backpack for your adventures.",
+        "price_inr": 499,
+        "category": "Fashion",
+        "image_url": "https://img.freepik.com/free-photo/smiley-woman-posing-her-baggage_23-2148521314.jpg?w=740&t=st=1694405573~exp=1694406173~hmac=2af7201efff8f2fbeeb628a53fca70280646684a1edf9367ad10002ff23856dc"
+      },
+      {
+        "id": 11,
+        "name": "Smart LED TV",
+        "company": "Sony",
+        "description": "High-definition smart TV for your entertainment needs.",
+        "price_inr": 19999,
+        "category": "Electronics",
+        "image_url": "https://img.freepik.com/free-psd/realistic-digital-tablet-presentation_1310-38.jpg?w=740&t=st=1694405648~exp=1694406248~hmac=d6478ebab11bf8806038b489cc9b462c6147acfb0ab32da298f8b5864c75a91f"
+      },
+      {
+        "id": 12,
+        "name": "Digital Camera",
+        "company": "PhotoGenius",
+        "description": "Advanced digital camera for capturing stunning photos and videos.",
+        "price_inr": 10999,
+        "category": "Electronics",
+        "image_url": "https://img.freepik.com/free-photo/camera-photographic-equipment-lens-technology-generative-ai_188544-19482.jpg?w=740&t=st=1694405959~exp=1694406559~hmac=6497c8be76a9241b9954eaf462d7b9474c0f547b5eae2d767c6463d876f4a560"
+      },
+      {
+        "id": 13,
+        "name": "Designer Handbag",
+        "company": "FashionFusion",
+        "description": "Chic designer handbag to complete your outfit.",
+        "price_inr": 999,
+        "category": "Fashion",
+        "image_url": "https://img.freepik.com/free-photo/beautiful-elegance-luxury-fashion-women-bag_74190-4900.jpg?w=740&t=st=1694406194~exp=1694406794~hmac=89d94fac8e5bff6c2ad42a798a249a2b4b37f201c6cc917aeae5846d842a9ee6"
+      },
+      {
+        "id": 14,
+        "name": "Wireless Keyboard and Mouse",
+        "company": "TechGear",
+        "description": "Efficient wireless keyboard and mouse combo for work or gaming.",
+        "price_inr": 999,
+        "category": "Electronics",
+        "image_url": "https://img.freepik.com/free-vector/print_53876-43658.jpg?w=740&t=st=1694613877~exp=1694614477~hmac=b97b69bc62e31238f5dc94118fc076bac66fe1253c8c1fa3bd2e9188f7548202"
+      },
+      {
+        "id": 15,
+        "name": "Microwave Oven",
+        "company": "Samsung",
+        "description": "A countertop microwave oven with 10 power levels and a defrost function.",
+        "price_inr": 12999,
+        "category": "Kitchen Appliances",
+        "image_url": "https://img.freepik.com/free-vector/microwave-oven-with-light-inside-isolated-white-background-kitchen-appliances_134830-658.jpg?size=626&ext=jpg&ga=GA1.1.404012972.1678007802&semt=sph"
+      },
+      {
+        "id": 16,
+        "name": "Kitchen Blender",
+        "company": "Ninja",
+        "description": "Powerful blender for making delicious smoothies and soups.",
+        "price_inr": 2499,
+        "category": "Kitchen Appliances",
+        "image_url": "https://img.freepik.com/premium-photo/blender-cook-machine-white-background-ai-generated_524159-671.jpg?size=626&ext=jpg&ga=GA1.1.404012972.1678007802&semt=sph"
+      },
+      {
+        "id": 17,
+        "name": "Leather Wallet",
+        "company": "LeatherCraft",
+        "description": "Classic leather wallet with ample storage space.",
+        "price_inr": 399,
+        "category": "Fashion",
+        "image_url": "https://img.freepik.com/free-photo/leather-wallet-isolated-white_1232-1814.jpg?w=740&t=st=1694406296~exp=1694406896~hmac=2f733f12d2a7799e8f2bd48e0fc0257c92c19fa6004a5217066afdf66bf43342"
+      },
+      {
+        "id": 18,
+        "name": "Toaster",
+        "company": "Crescent",
+        "description": "A toaster that can toast two slices of bread at a time.",
+        "price_inr": 999,
+        "category": "Kitchen Appliances",
+        "image_url": "https://img.freepik.com/free-psd/electric-toaster-kitchen-appliance-icon-isolated-3d-render-illustration_439185-13021.jpg?size=626&ext=jpg&ga=GA1.1.404012972.1678007802&semt=sph"
+      },
+      {
+        "id": 19,
+        "name": "Fitbit Charge 5",
+        "company": "Fitbit",
+        "description": "A fitness tracker that tracks your steps, distance, calories burned, and heart rate. The tracker also has a variety of other features, such as sleep tracking, stress management, and access to guided workouts.",
+        "price_inr": 12999,
+        "category": "Fitness",
+        "image_url": "https://img.freepik.com/free-photo/new-smartwatch-balancing-with-hand_23-2150296477.jpg?size=626&ext=jpg&ga=GA1.2.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 20,
+        "name": "Apple MacBook Air M2",
+        "company": "Apple",
+        "description": "A laptop with a 13.3-inch Retina display, M2 chip, 8GB of unified memory, and 256GB of SSD storage. It is also thin and light, making it easy to carry around.",
+        "price_inr": 99990,
+        "category": "Electronics",
+        "image_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-spacegray-config-20220606?wid=410&hei=249&fmt=jpeg&qlt=95&.v=1654122880543"
+      },
+      {
+        "id": 21,
+        "name": "Lindt Lindor Milk Chocolate Truffles",
+        "company": "Lindt",
+        "description": "A box of milk chocolate truffles with a smooth and creamy texture. The truffles are made with high-quality ingredients and are perfect for a special occasion or simply to enjoy as a treat.",
+        "price_inr": 399,
+        "category": "food",
+        "image_url": "https://img.freepik.com/box-chocolates-with-box-chocolates-it_922940-1115.jpg?size=626&ext=jpg&ga=GA1.1.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 22,
+        "name": "Gourmet Coffee Beans",
+        "company": "CoffeeDelights",
+        "description": "Premium gourmet coffee beans for coffee connoisseurs.",
+        "price_inr": 799,
+        "category": "food",
+        "image_url": "https://img.freepik.com/free-vector/dark-roasted-coffee-beans-set-different-positions-round-label_1284-10759.jpg?size=626&ext=jpg&ga=GA1.2.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 23,
+        "name": "Famous Amos Chocolate Chip Cookies",
+        "company": "Famous Amos",
+        "description": "A box of soft and chewy chocolate chip cookies. The cookies are made with real butter and chocolate chips and are perfect for a snack or dessert.",
+        "price_inr": 199,
+        "category": "food",
+        "image_url": "https://img.freepik.com/free-photo/high-angle-pepernoten-dessert-still-life_23-2149766684.jpg?w=740&t=st=1694750764~exp=1694751364~hmac=95d067528c16db684177516e1dd762614bbca0464804b52ec5b3e9f6c5f8c900"
+      },
+      {
+        "id": 24,
+        "name": "Sony PlayStation 5",
+        "company": "Sony",
+        "description": "A gaming console with a custom AMD Ryzen CPU and GPU, 825GB SSD, and 4K Blu-ray player. It also has a variety of features, such as haptic feedback, adaptive triggers, and 3D audio.",
+        "price_inr": 49999,
+        "category": "Electronics",
+        "image_url": "https://www.sony.co.in/image/83e724c6b5df327fc96f9c05d3ccc2ce?fmt=jpeg&wid=600&qlt=85"
+      },
+      {
+        "id": 25,
+        "name": "Vintage Polaroid Camera",
+        "company": "RetroSnaps",
+        "description": "Retro-style Polaroid camera for instant photography.",
+        "price_inr": 19999,
+        "category": "Electronics",
+        "image_url": "https://m.media-amazon.com/images/I/81Sq45U-2TL._SY879_.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Dukes Waffy chips",
+       "company": "Dukes",
+       "description": "A crispy wafer roll filled with a creamy chocolate filling. The wafers are made with high-quality ingredients and are perfect for a snack or dessert.",
+       "price_inr": 25,
+       "category": "food",
+        "image_url": "https://img.freepik.com/free-vector/potato-chips-bag-ad_52683-35118.jpg?size=626&ext=jpg&ga=GA1.2.404012972.1678007802&semt=sph"
+      },
+      {
+        "id": 27,
+        "name": "Britannia Marie Gold Rusk",
+        "company": "Britannia",
+        "description": "A packet of Marie Gold Rusk, a popular Indian rusk made with whole wheat flour and butter. The rusks are twice-baked to give them a crispy texture and a long shelf life. They are perfect for breakfast, snacks, or tea time.",
+        "price_inr": 45,
+        "category": "food",
+        "image_url": "https://rukminim2.flixcart.com/image/280/280/xif0q/rusk/f/f/4/-original-imagm6vztdc6vmff.jpeg?q=70"
+      },
+      {
+        "id": 28,
+        "name": "Handcrafted Jewelry",
+        "company": "ArtisanGems",
+        "description": "Exquisite handcrafted jewelry for special occasions.",
+        "price_inr": 2999,
+        "category": "Fashion",
+        "image_url": "https://img.freepik.com/free-photo/woman-demonstrating-golden-oriental-style-jewelry_114579-12627.jpg?w=740&t=st=1694406448~exp=1694407048~hmac=3d71600e6f7bfb938f2eaadd6760eef99d1616ade106343cad7273db89280933"
+      },
+      {
+        "id": 29,
+        "name": "Treat",
+        "company": "BRITANNIA",
+        "description": "BRITANNIA Treat Cream Chocolate Wafers.",
+        "price_inr": 20,
+        "category": "food",
+        "image_url": "https://rukminim2.flixcart.com/image/280/280/xif0q/wafer-waffle/u/r/n/-original-imagkfy6tnnmpd9s.jpeg?q=70"
+      },
+      {
+        "id": 30,
+        "name": "Spicy Peanuts",
+        "company": "Bikano",
+        "description": "Bikano Tasty Spicy Coated Peanuts.",
+        "price_inr": 75,
+        "category": "food",
+        "image_url": "https://rukminim2.flixcart.com/image/280/280/xif0q/snack-savourie/f/k/v/-original-imagky6z7d2tybre.jpeg?q=70"
+      },
+      {
+        "id": 31,
+        "name": "Alu Bhujia",
+        "company": "Haldiram",
+        "description": "Haldiram's Tasty Alu Bhujia",
+        "price_inr": 56,
+        "category": "food",
+        "image_url": "https://rukminim2.flixcart.com/image/280/280/xif0q/snack-savourie/o/o/p/-original-imaghz43mnwpusn4.jpeg?q=70"
+      },
+      {
+        "id": 32,
+        "name": "Juice",
+        "company": "Real",
+        "description": "Real Masala Pomegranate  (1 L)",
+        "price_inr": 80,
+        "category": "food",
+        "image_url": "https://rukminim2.flixcart.com/image/416/416/l111lzk0/drinks-juice/x/8/x/-original-imagczhhgymhybh7.jpeg?q=70"
+      },
+      {
+        "id": 33,
+        "name": "Fitness Dumbbell Set",
+        "company": "FitFlex",
+        "description": "Versatile dumbbell set for home workouts and strength training.",
+        "price_inr": 1499,
+        "category": "Fitness",
+        "image_url": "https://img.freepik.com/free-vector/dumbbells-barbells-weight-fitness_1284-13523.jpg?w=740&t=st=1694406507~exp=1694407107~hmac=8e3d0f2dcdaa55666c96548da5ab49c9ad577f205cf64bcc863e6217d8d17ed9"
+      },
+      {
+        "id": 34,
+        "name": "Rectangle 6 Seater Wooden Dining Table",
+        "company": "Nilkamal",
+        "description": "A beautiful and sturdy dining table made of solid wood. It can comfortably seat up to 6 people and is perfect for everyday use or special occasions. The table has a simple yet elegant design that will complement any décor.",
+        "price_inr": 19999,
+        "category": "Furniture",
+        "image_url": "https://img.freepik.com/premium-photo/modern-luxury-kitchen-interior-design-minimal-style_455177-83.jpg?size=626&ext=jpg&ga=GA1.2.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 35,
+        "name": "Wireless Bluetooth Speaker",
+        "company": "SoundWave",
+        "description": "Portable wireless speaker for on-the-go music and podcasts.",
+        "price_inr": 799,
+        "category": "Electronics",
+        "image_url": "https://img.freepik.com/premium-vector/concept-voice-technology_71983-902.jpg?size=626&ext=jpg&ga=GA1.1.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 36,
+        "name": "Wooden Dining Chair",
+        "company": "Nilkamal",
+        "description": "A beautiful and sturdy dining chair made of solid wood. It has a comfortable cushion and backrest, and it is perfect for everyday use or special occasions. The chair has a simple yet elegant design that will complement any décor.",
+        "price_inr": 3999,
+        "category": "Furniture",
+        "image_url": "https://img.freepik.com/premium-photo/full-image-blue-tones-product_729592-3927.jpg?size=626&ext=jpg&ga=GA1.1.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 37,
+        "name": "Yoga Mat",
+        "company": "Manduka",
+        "description": "A durable yoga mat that provides excellent traction and cushioning. The mat is made of non-toxic PVC and is free of latex and phthalates. It is also machine washable for easy cleaning.",
+        "price_inr": 1999,
+        "category": "Fitness",
+        "image_url": "https://img.freepik.com/free-vector/yoga-mat-bottle-water-3d-vector-illustration-gym-equipment-fitness-training-cartoon-style-isolated-white-background-sport-hobby-workout-concept_778687-1216.jpg?w=740&t=st=1694706812~exp=1694707412~hmac=20367dc83c3ae1fd0918a20a799e0062c845b3574adf8ca2631e29132b9f45f6"
+      },
+      {
+        "id": 38,
+        "name": "Sleek Laptop Backpack",
+        "company": "TechTrek",
+        "description": "Stylish and functional laptop backpack for work and travel.",
+        "price_inr": 999,
+        "category": "Fashion",
+        "image_url": "https://img.freepik.com/free-photo/man-packing-away-his-laptop-into-bag_53876-95806.jpg?size=626&ext=jpg&ga=GA1.1.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 39,
+        "name": "IFB 6.5 Kg Fully Automatic Front Load Washing Machine",
+        "company": "IFB",
+        "description": "A fully automatic front load washing machine with a 6.5 kg capacity. It has a variety of features, such as multiple wash cycles, adjustable temperature settings, and a delay start function. It also has a built-in heater and a child lock. The washing machine is energy efficient and water efficient",
+        "price_inr": 24999,
+        "category": "Kitchen Appliances",
+        "image_url": "https://img.freepik.com/free-vector/washing-machine-realistic-poster-with-quiet-quick-wash-symbols-illustration_1284-29131.jpg?size=626&ext=jpg&ga=GA1.1.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 40,
+        "name": "Anker PowerCore 10000 mAh PD Power Bank",
+        "company": "Anker",
+        "description": "A portable charger with a 10000 mAh battery capacity and 18W PowerIQ technology for fast charging. It also has two USB-A ports and one USB-C port for charging multiple devices at the same time. The power bank is also lightweight and compact, making it easy to carry around.",
+        "price_inr": 2999,
+        "category": "Electronics",
+        "image_url": "https://img.freepik.com/free-vector/gradient-hard-drive-illustration_23-2149377020.jpg?w=740&t=st=1694708440~exp=1694709040~hmac=06321b9eed64bbe9ef9e8be7e5f18fe22a0ee234644eb49a169290e6ff44be62"
+      },
+      {
+        "id": 41,
+        "name": "Home Theater System",
+        "company": "CineMax",
+        "description": "Immersive home theater system for cinematic experiences.",
+        "price_inr": 7999,
+        "category": "Electronics",
+        "image_url": "https://images.philips.com/is/image/PhilipsConsumer/HTD5570_94-IMS-en_IN?$jpglarge$&wid=960"
+      },
+      {
+        "id": 42,
+        "name": "Luxury Bed and Mattress",
+        "company": "SleepHaven",
+        "description": "Elegant bed and comfortable mattress for a good night's sleep.",
+        "price_inr": 19999,
+        "category": "Furniture",
+        "image_url": "https://img.freepik.com/free-photo/3d-rendering-isometric-house_23-2150728062.jpg?size=626&ext=jpg&ga=GA1.2.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 43,
+        "name": "Juice",
+        "company": "Frooti",
+        "description": "FROOTI Mango Drink  (200 ml)",
+        "price_inr": 12,
+        "category": "food",
+        "image_url": "https://rukminim2.flixcart.com/image/416/416/kwv0djk0/drinks-juice/a/e/4/-original-imag9ftmrt7uzb9s.jpeg?q=70"
+      },
+      {
+        "id": 44,
+        "name": "Cold Drink",
+        "company": "Thums Up",
+        "description": "Thums Up Plastic Bottle  (8 x 250 ml)",
+        "price_inr": 126,
+        "category": "food",
+        "image_url": "https://rukminim2.flixcart.com/image/416/416/l4ei1e80/aerated-drink/c/8/d/2-na-plastic-bottle-8-thums-up-original-imagfbypzpmyxseg.jpeg?q=70"
+      },
+      {
+        "id": 45,
+        "name": "Coca-Cola",
+        "company": "Coca-cola",
+        "description": "Coca-Cola Zero Sugar, No Calories Soft Drink Can  (300 ml ",
+        "price_inr": 34,
+        "category": "food",
+        "image_url": "https://rukminim2.flixcart.com/image/280/280/l3hmwsw0/aerated-drink/w/f/d/-original-imagehgy2x89tzaf.jpeg?q=70"
+      },
+      {
+        "id": 46,
+        "name": "Smart Home Speaker with Voice Assistant",
+        "company": "VoiceTech",
+        "description": "Voice-controlled smart speaker for home automation and entertainment.",
+        "price_inr": 3499,
+        "category": "Electronics",
+        "image_url": "https://img.freepik.com/free-vector/smart-speaker-3d-vector-illustration-voice-control-digital-assistant-cartoon-style-isolated-white-background-modern-technology-artificial-intelligence-smart-home-concept_778687-734.jpg?size=626&ext=jpg&ga=GA1.2.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 47,
+        "name": "Lipstick",
+        "company": "L'Oréal Paris",
+        "description": "A classic, matte lipstick that comes in a variety of shades.",
+        "price_inr": 399,
+        "category": "Fashion",
+        "image_url": "https://img.freepik.com/free-vector/lipstick-assortment-set_1284-16253.jpg?w=740&t=st=1694615312~exp=1694615912~hmac=68ec03eb04a2f20dd9a4ee721aec603e0899e64d01b4b6cc1ec4376bbf6504b9"
+      },
+      {
+        "id": 48,
+        "name": "Rice Cooker",
+        "company": "Pigeon",
+        "description": "A rice cooker that can cook up to 10 cups of rice.",
+        "price_inr": 1999,
+        "category": "Kitchen Appliances",
+        "image_url": "https://img.freepik.com/premium-photo/rice-cooker-with-white-background-high-quality-ultr_889056-8739.jpg?size=626&ext=jpg&ga=GA1.2.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 49,
+        "name": "Crockery Set",
+        "company": "Larah",
+        "description": "A beautiful crockery set made of bone china. It includes a dinner plate, salad plate, bowl, and mug for each setting. The set is microwave and dishwasher safe.",
+        "price_inr": 999,
+        "category": "Kitchen Appliances",
+        "image_url": "https://img.freepik.com/premium-photo/tableware-with-white-background-high-quality-ultra_889056-9183.jpg?size=626&ext=jpg&ga=GA1.2.404012972.1678007802&semt=ais"
+      },
+      {
+        "id": 50,
+        "name": "Bournvita",
+        "company": "Cadbury",
+        "description": "Cadbury Bournvita Bournvita Chocolate Health Drink  (2 kg)  ",
+        "price_inr": 750,
+        "category": "food",
+        "image_url": "https://rukminim2.flixcart.com/image/416/416/xif0q/milk-drink-mix/z/y/c/-original-imagsem8pqghyzpy.jpeg?q=70"
+      }
+    ]
+  }
+  
