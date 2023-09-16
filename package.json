@@ -12,7 +12,7 @@
   "dependencies": {
     "express": "^4.18.2"
   },
-  "netlify": {
-    "functions": "netlify/functions"
+  "engines": {
+    "node": "20.3.0"
   }
 }
